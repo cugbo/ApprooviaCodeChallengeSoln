@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\bin\Debug\net5.0\Service.dll
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\bin\Debug\net5.0\Model.dll
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\bin\Debug\net5.0\Model.pdb
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.dll
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\refint\Service.dll
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\Service.pdb
+C:\Users\hp\Desktop\New folder (2)\SparkPlug\Service\obj\Debug\net5.0\ref\Service.dll
